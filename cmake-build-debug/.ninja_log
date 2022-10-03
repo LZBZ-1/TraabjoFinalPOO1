@@ -1,0 +1,16 @@
+# ninja log v5
+2	977	6864552816049440	CMakeFiles/TrabajoFinalAlesis.dir/main.cpp.obj	b7428008bf579e63
+978	1109	6864552817339356	TrabajoFinalAlesis.exe	c35b84be7d31ffb4
+6	978	6865223253533603	CMakeFiles/Prueba.dir/prueba.cpp.obj	4c7d0388ddc8abf9
+1	278	6865226064012446	build.ninja	21cc1c80ef4eb32b
+979	1303	6865223256683659	Prueba.exe	bbeae1d2caa44a1b
+6	1195	6865227247888701	CMakeFiles/TrabajoFinalAlesis.dir/main.cpp.obj	b7428008bf579e63
+1196	1411	6865227250028575	TrabajoFinalAlesis.exe	c35b84be7d31ffb4
+4	1143	6865228746009432	CMakeFiles/TrabajoFinalAlesis.dir/main.cpp.obj	b7428008bf579e63
+1144	1341	6865228747969425	TrabajoFinalAlesis.exe	c35b84be7d31ffb4
+3	747	6865230605754067	CMakeFiles/TrabajoFinalAlesis.dir/main.cpp.obj	b7428008bf579e63
+747	894	6865230607194054	TrabajoFinalAlesis.exe	c35b84be7d31ffb4
+4	815	6865230924359451	CMakeFiles/TrabajoFinalAlesis.dir/main.cpp.obj	b7428008bf579e63
+816	962	6865230925819399	TrabajoFinalAlesis.exe	c35b84be7d31ffb4
+5	1390	6865289581871934	CMakeFiles/TrabajoFinalAlesis.dir/main.cpp.obj	b7428008bf579e63
+1391	1749	6865289585432112	TrabajoFinalAlesis.exe	c35b84be7d31ffb4
